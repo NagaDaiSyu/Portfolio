@@ -1,5 +1,5 @@
 # Youtubeの扉
-2019年頃制作  　http://randomtube.deca.jp/randomtube/
+2019年頃制作  　※音が流れますhttp://randomtube.deca.jp/randomtube/
 
 ![無題2](https://user-images.githubusercontent.com/76143101/128122025-a67c5796-73be-499d-a3ec-337ca4fcc743.png)
 
