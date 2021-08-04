@@ -1,5 +1,5 @@
 # UnityBreak!!
-2018年頃制作  
+2018年頃制作  ※Andoroidバージョンレガシー化のため非公開中
   
 ![imgKohaku](https://user-images.githubusercontent.com/76143101/107172961-03267000-6a0a-11eb-8707-e33d440df5f3.png)  
   
